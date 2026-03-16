@@ -1,0 +1,12 @@
+{
+  "name": "claude-memory-optimizer",
+  "version": "1.0.0",
+  "description": "Break the 200-line MEMORY.md limit. Three-tier memory architecture for Claude Code — slim routing table + dense reference + optional RAG.",
+  "author": "ScrappyLabs",
+  "homepage": "https://scrappylabs.ai/three-tier-memory",
+  "commands": [
+    "commands/memory-optimize.md",
+    "commands/memory-status.md",
+    "commands/memory-regenerate.md"
+  ]
+}
